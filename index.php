@@ -20,6 +20,8 @@
 </header>
    
    <h1>Bienvenido a la pagina de Harol Ismael Rodriguez Romero</h1>
+   <h1>Aqui estuvo Ian</h1>
+   <h4>me justa star wars</h4>
   </body>
   <footer>
     <?php include_once("public/pie.php")?>
