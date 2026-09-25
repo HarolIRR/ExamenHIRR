@@ -1,0 +1,11 @@
+ body {
+     display: grid;
+     grid-template-rows: auto 1fr auto;
+     /* Header, contenido flexible, footer */
+     min-height: 100vh;
+     margin: 0;
+ }
+
+ .content {
+     padding: 20px;
+ }
